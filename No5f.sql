@@ -1,0 +1,1 @@
+UPDATE Staff SET Staff_Name = 'Kyaw Myint' WHERE Staff_ID = 'S003';
